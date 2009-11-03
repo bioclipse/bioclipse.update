@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <category-def name="Bioclipse extensions" label="Bioclipse extensions">
+      <description>
+         Features that extend the Bioclipse workbench.
+      </description>
+   </category-def>
+   <category-def name="Data Collections" label="Data Collections">
+      <description>
+         Features that include data to be installed in Bioclipse.
+      </description>
+   </category-def>
+</site>
