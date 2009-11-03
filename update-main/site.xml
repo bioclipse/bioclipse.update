@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/net.bioclipse.blueobelisk_feature_2.1.0.jar" id="net.bioclipse.blueobelisk_feature" version="2.1.0">
+      <category name="Data Collections"/>
+   </feature>
+   <feature url="features/net.bioclipse.xws4j_feature_2.2.0.RC1.jar" id="net.bioclipse.xws4j_feature" version="2.2.0.RC1">
+      <category name="Bioclipse extensions"/>
+   </feature>
+   <feature url="features/net.bioclipse.cdk_feature_2.1.1.v20091002.jar" id="net.bioclipse.cdk_feature" version="2.1.1.v20091002">
+      <category name="Bioclipse extensions"/>
+   </feature>
+   <feature url="features/net.bioclipse.metaprint2d_feature_1.0.0.v20090929.jar" id="net.bioclipse.metaprint2d_feature" version="1.0.0.v20090929">
+      <category name="Bioclipse extensions"/>
+   </feature>
+   <feature url="features/net.bioclipse.birt_feature_2.2.0.RC1.jar" id="net.bioclipse.birt_feature" version="2.2.0.RC1">
+      <category name="Bioclipse extensions"/>
+   </feature>
+   <feature url="features/net.bioclipse.ds.birt_feature_2.2.0.RC1.jar" id="net.bioclipse.ds.birt_feature" version="2.2.0.RC1">
+      <category name="Bioclipse extensions"/>
+   </feature>
+   <feature url="features/net.bioclipse.ds_feature_2.2.0.RC1.jar" id="net.bioclipse.ds_feature" version="2.2.0.RC1">
+      <category name="Bioclipse extensions"/>
+   </feature>
+   <feature url="features/net.bioclipse.pellet_feature_2.1.1.v20091002.jar" id="net.bioclipse.pellet_feature" version="2.1.1.v20091002">
+      <category name="Bioclipse extensions"/>
+   </feature>
+   <feature url="features/net.bioclipse.rdf_feature_2.1.1.v20091002.jar" id="net.bioclipse.rdf_feature" version="2.1.1.v20091002">
+      <category name="Bioclipse extensions"/>
+   </feature>
+   <feature url="features/net.bioclipse.sampledata_feature_2.0.0.v20090807.jar" id="net.bioclipse.sampledata_feature" version="2.0.0.v20090807">
+      <category name="Data Collections"/>
+   </feature>
+   <feature url="features/net.bioclipse.drugbank_feature_2.2.0.RC1.jar" id="net.bioclipse.drugbank_feature" version="2.2.0.RC1">
+      <category name="Data Collections"/>
+   </feature>
+   <feature url="features/net.bioclipse.qsar.xmpp_feature_2.2.0.RC1.jar" id="net.bioclipse.qsar.xmpp_feature" version="2.2.0.RC1">
+      <category name="BioclipseQSAR"/>
+   </feature>
+   <feature url="features/net.bioclipse.qsar_feature_2.2.0.RC1.jar" id="net.bioclipse.qsar_feature" version="2.2.0.RC1">
+      <category name="BioclipseQSAR"/>
+   </feature>
+   <feature url="features/net.bioclipse.joelib_feature_2.1.1.v20091002.jar" id="net.bioclipse.joelib_feature" version="2.1.1.v20091002">
+      <category name="BioclipseQSAR"/>
+   </feature>
+   <category-def name="Bioclipse Updates" label="Bioclipse Updates"/>
+   <category-def name="Bioclipse extensions" label="Bioclipse extensions">
+      <description>
+         Features that extend the Bioclipse workbench.
+      </description>
+   </category-def>
+   <category-def name="Data Collections" label="Data Collections">
+      <description>
+         Features that include data to be installed in Bioclipse.
+      </description>
+   </category-def>
+   <category-def name="BioclipseQSAR" label="Bioclipse QSAR">
+      <description>
+         Features for QSAR in Bioclipse.
+      </description>
+   </category-def>
+</site>
