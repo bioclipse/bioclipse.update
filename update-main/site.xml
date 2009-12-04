@@ -36,6 +36,9 @@
    <feature url="features/net.bioclipse.social_feature_2.2.0.RC2.jar" id="net.bioclipse.social_feature" version="2.2.0.RC2">
       <category name="Bioclipse"/>
    </feature>
+   <feature url="features/net.bioclipse.joelib_feature_2.2.0.RC2.jar" id="net.bioclipse.joelib_feature" version="2.2.0.RC2">
+      <category name="BioclipseQSAR"/>
+   </feature>
    <category-def name="Bioclipse" label="Bioclipse">
       <description>
          Features that extend the Bioclipse workbench.
