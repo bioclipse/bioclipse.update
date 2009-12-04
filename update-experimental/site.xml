@@ -3,10 +3,22 @@
    <description url="Bioclipse Experimental">
       This update site contains experimental Bioclipse features, which may or may not lead to official features, and are likely unstable and experimental at this stage. This site is aimed only at experienced Bioclipse developers, and others are not typically encouraged to use it.
    </description>
-   <feature url="features/net.bioclipse.experimental_feature_2.2.0.RC1.jar" id="net.bioclipse.experimental_feature" version="2.2.0.RC1">
+   <feature url="features/net.bioclipse.ds.birt_feature_2.2.0.RC2.jar" id="net.bioclipse.ds.birt_feature" version="2.2.0.RC2">
       <category name="Bioclipse Experimental"/>
    </feature>
-   <feature url="features/net.bioclipse.bioinformatics_feature_2.2.0.RC1.jar" id="net.bioclipse.bioinformatics_feature" version="2.2.0.RC1">
+   <feature url="features/net.bioclipse.ds_feature_2.2.0.RC2.jar" id="net.bioclipse.ds_feature" version="2.2.0.RC2">
+      <category name="Bioclipse Experimental"/>
+   </feature>
+   <feature url="features/net.bioclipse.experimental_feature_2.2.0.RC2.jar" id="net.bioclipse.experimental_feature" version="2.2.0.RC2">
+      <category name="Bioclipse Experimental"/>
+   </feature>
+   <feature url="features/net.bioclipse.bioinformatics_feature_2.2.0.RC2.jar" id="net.bioclipse.bioinformatics_feature" version="2.2.0.RC2">
+      <category name="Bioclipse Experimental"/>
+   </feature>
+   <feature url="features/net.bioclipse.vscreen_feature_2.2.0.RC2.jar" id="net.bioclipse.vscreen_feature" version="2.2.0.RC2">
+      <category name="Bioclipse Experimental"/>
+   </feature>
+   <feature url="features/net.bioclipse.structuredb_feature_2.2.0.RC2.jar" id="net.bioclipse.structuredb_feature" version="2.2.0.RC2">
       <category name="Bioclipse Experimental"/>
    </feature>
    <category-def name="Bioclipse Experimental" label="Bioclipse Experimental">
