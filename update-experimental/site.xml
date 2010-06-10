@@ -9,16 +9,16 @@
    <feature url="features/net.bioclipse.structuredb_feature_2.2.0.v20100127.jar" id="net.bioclipse.structuredb_feature" version="2.2.0.v20100127">
       <category name="Bioclipse Experimental"/>
    </feature>
-   <feature url="features/net.bioclipse.ds.birt_feature_2.4.0.RC1.jar" id="net.bioclipse.ds.birt_feature" version="2.4.0.RC1">
+   <feature url="features/net.bioclipse.vscreen_feature_2.4.0.RC2.jar" id="net.bioclipse.vscreen_feature" version="2.4.0.RC2">
       <category name="Bioclipse Experimental"/>
    </feature>
-   <feature url="features/net.bioclipse.ds_feature_2.4.0.RC1.jar" id="net.bioclipse.ds_feature" version="2.4.0.RC1">
+   <feature url="features/net.bioclipse.ds_feature_2.4.0.RC2.jar" id="net.bioclipse.ds_feature" version="2.4.0.RC2">
       <category name="Bioclipse Experimental"/>
    </feature>
-   <feature url="features/net.bioclipse.vscreen_feature_2.4.0.RC1.jar" id="net.bioclipse.vscreen_feature" version="2.4.0.RC1">
+   <feature url="features/net.bioclipse.ds.birt_feature_2.4.0.RC2.jar" id="net.bioclipse.ds.birt_feature" version="2.4.0.RC2">
       <category name="Bioclipse Experimental"/>
    </feature>
-   <feature url="features/net.bioclipse.experimental_feature_2.4.0.RC1.jar" id="net.bioclipse.experimental_feature" version="2.4.0.RC1">
+   <feature url="features/net.bioclipse.experimental_feature_2.4.0.RC2.jar" id="net.bioclipse.experimental_feature" version="2.4.0.RC2">
       <category name="Bioclipse Experimental"/>
    </feature>
    <category-def name="Bioclipse Experimental" label="Bioclipse Experimental">
