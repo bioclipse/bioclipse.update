@@ -3,12 +3,17 @@
 # Place this file in the folder containing the exported Bioclipse folder and
 # run it to get the packaged versions
 #
-RELEASE=Bioclipse.2.4.0.RC2
+RELEASE=bioclipse.2.4.0.RC3
 chmod -R 777 win32.win32.x86_64 win32.win32.x86
 find . -name bioclipse.ini | xargs perl -i -pe 's/\r?\n// if /=\r?$/'
-tar czvf $RELEASE.linux.gtk.x86.tar.gz linux.gtk.x86
-tar czvf $RELEASE.linux.gtk.x86_64.tar.gz linux.gtk.x86_64
-mv macosx.cocoa.x86_64 $RELEASE.macosx.cocoa.x86_64
+cd linux.gtk.x86
+tar czvf ../$RELEASE.linux.gtk.x86.tar.gz *
+cd ../linux.gtk.x86_64
+tar czvf ../$RELEASE.linux.gtk.x86_64.tar.gz *
+cd ../win32.win32.x86
+zip -r ../$RELEASE.win32.win32.x86.zip *
+cd ../win32.win32.x86_64
+zip -r ../$RELEASE.win32.win32.x86_64.zip *
+cd ..
+cp -R macosx.cocoa.x86_64 $RELEASE.macosx.cocoa.x86_64
 hdiutil create -srcfolder $RELEASE.macosx.cocoa.x86_64 $RELEASE.macosx.cocoa.x86_64.dmg
-zip -r $RELEASE.win32.win32.x86.zip win32.win32.x86
-zip -r $RELEASE.win32.win32.x86_64.zip win32.win32.x86_64
