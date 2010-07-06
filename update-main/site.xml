@@ -9,34 +9,34 @@
    <feature url="features/net.bioclipse.drugbank_feature_2.5.0.jar" id="net.bioclipse.drugbank_feature" version="2.5">
       <category name="Data Collections"/>
    </feature>
-   <feature url="features/net.bioclipse.birt_feature_2.4.0.RC2.jar" id="net.bioclipse.birt_feature" version="2.4.0.RC2">
-      <category name="Bioclipse"/>
-   </feature>
-   <feature url="features/net.bioclipse.pellet_feature_2.4.0.RC2.jar" id="net.bioclipse.pellet_feature" version="2.4.0.RC2">
-      <category name="Bioclipse"/>
-   </feature>
-   <feature url="features/net.bioclipse.social_feature_2.4.0.RC2.jar" id="net.bioclipse.social_feature" version="2.4.0.RC2">
-      <category name="Bioclipse"/>
-   </feature>
    <feature url="features/net.bioclipse.metaprint2d_feature_1.0.0.v20100610.jar" id="net.bioclipse.metaprint2d_feature" version="1.0.0.v20100610">
       <category name="Bioclipse"/>
    </feature>
-   <feature url="features/net.bioclipse.rdf_feature_2.4.0.RC2.jar" id="net.bioclipse.rdf_feature" version="2.4.0.RC2">
+   <feature url="features/net.bioclipse.pellet_feature_2.4.0.RC3.jar" id="net.bioclipse.pellet_feature" version="2.4.0.RC3">
       <category name="Bioclipse"/>
    </feature>
-   <feature url="features/net.bioclipse.cdk_feature_2.4.0.RC2.jar" id="net.bioclipse.cdk_feature" version="2.4.0.RC2">
+   <feature url="features/net.bioclipse.birt_feature_2.4.0.RC3.jar" id="net.bioclipse.birt_feature" version="2.4.0.RC3">
       <category name="Bioclipse"/>
    </feature>
-   <feature url="features/net.bioclipse.sampledata_feature_2.4.0.RC2.jar" id="net.bioclipse.sampledata_feature" version="2.4.0.RC2">
+   <feature url="features/net.bioclipse.social_feature_2.4.0.RC3.jar" id="net.bioclipse.social_feature" version="2.4.0.RC3">
+      <category name="Bioclipse"/>
+   </feature>
+   <feature url="features/net.bioclipse.rdf_feature_2.4.0.RC3.jar" id="net.bioclipse.rdf_feature" version="2.4.0.RC3">
+      <category name="Bioclipse"/>
+   </feature>
+   <feature url="features/net.bioclipse.cdk_feature_2.4.0.RC3.jar" id="net.bioclipse.cdk_feature" version="2.4.0.RC3">
+      <category name="Bioclipse"/>
+   </feature>
+   <feature url="features/net.bioclipse.sampledata_feature_2.4.0.RC3.jar" id="net.bioclipse.sampledata_feature" version="2.4.0.RC3">
       <category name="Data Collections"/>
    </feature>
-   <feature url="features/net.bioclipse.qsar_feature_2.4.0.RC2.jar" id="net.bioclipse.qsar_feature" version="2.4.0.RC2">
+   <feature url="features/net.bioclipse.qsar_feature_2.4.0.RC3.jar" id="net.bioclipse.qsar_feature" version="2.4.0.RC3">
       <category name="BioclipseQSAR"/>
    </feature>
-   <feature url="features/net.bioclipse.joelib_feature_2.4.0.RC2.jar" id="net.bioclipse.joelib_feature" version="2.4.0.RC2">
+   <feature url="features/net.bioclipse.joelib_feature_2.4.0.RC3.jar" id="net.bioclipse.joelib_feature" version="2.4.0.RC3">
       <category name="BioclipseQSAR"/>
    </feature>
-   <feature url="features/net.bioclipse.qsar.xmpp_feature_2.4.0.RC2.jar" id="net.bioclipse.qsar.xmpp_feature" version="2.4.0.RC2">
+   <feature url="features/net.bioclipse.qsar.xmpp_feature_2.4.0.RC3.jar" id="net.bioclipse.qsar.xmpp_feature" version="2.4.0.RC3">
       <category name="BioclipseQSAR"/>
    </feature>
    <category-def name="Bioclipse" label="Bioclipse">
