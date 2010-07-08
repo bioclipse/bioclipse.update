@@ -12,9 +12,6 @@
    <feature url="features/net.bioclipse.metaprint2d_feature_1.0.0.v20100610.jar" id="net.bioclipse.metaprint2d_feature" version="1.0.0.v20100610">
       <category name="Bioclipse"/>
    </feature>
-   <feature url="features/net.bioclipse.social_feature_2.4.0.20100709.jar" id="net.bioclipse.social_feature" version="2.4.0.20100709">
-      <category name="Bioclipse"/>
-   </feature>
    <feature url="features/net.bioclipse.birt_feature_2.4.0.20100709.jar" id="net.bioclipse.birt_feature" version="2.4.0.20100709">
       <category name="Bioclipse"/>
    </feature>

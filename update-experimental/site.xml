@@ -21,6 +21,9 @@
    <feature url="features/net.bioclipse.vscreen_feature_2.4.0.20100709.jar" id="net.bioclipse.vscreen_feature" version="2.4.0.20100709">
       <category name="Bioclipse Experimental"/>
    </feature>
+   <feature url="features/net.bioclipse.social_feature_2.4.0.20100709.jar" id="net.bioclipse.social_feature" version="2.4.0.20100709">
+      <category name="Bioclipse Experimental"/>
+   </feature>
    <category-def name="Bioclipse Experimental" label="Bioclipse Experimental">
       <description>
          Bioclipse experimental features.
