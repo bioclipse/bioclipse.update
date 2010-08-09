@@ -15,9 +15,6 @@
    <feature url="features/net.bioclipse.ds_feature_2.4.0.20100709.jar" id="net.bioclipse.ds_feature" version="2.4.0.20100709">
       <category name="Bioclipse Experimental"/>
    </feature>
-   <feature url="features/net.bioclipse.ds.birt_feature_2.4.0.20100709.jar" id="net.bioclipse.ds.birt_feature" version="2.4.0.20100709">
-      <category name="Bioclipse Experimental"/>
-   </feature>
    <feature url="features/net.bioclipse.vscreen_feature_2.4.0.20100709.jar" id="net.bioclipse.vscreen_feature" version="2.4.0.20100709">
       <category name="Bioclipse Experimental"/>
    </feature>
